@@ -6,21 +6,20 @@
    },
    "guilds": {
          "FORGE": {
-            "guildID": "689116255034146832",
+            "guildID": "",
 	    "000556": {
-	    	"channelID": "700078361539772536",
-            	"whID": "701405611375460363",
-                "whToken": "XP5p0buURkTSAJDkNWjgITHlYiCHNhb5fJ5bpVWegTFsyn0FRlreuoKCGWmmKyfYRf0b"
-	    }
+	    	"channelID": "",
+            	"whID": "",
+                "whToken": ""}
             "ignore": false,
-            "ignoreBots": true
+            "ignoreBots": false
         },
         "ORDER": {
-            "guildID": "689116255034146832",
+            "guildID": "",
             "000556": { 
-		"channelID": "700078361539772536",
-                "whID": "701396811516215320",
-		"whToken": "zjVXiCBHAZQRJPPXSc3WCce-cA8erzbmeuUI2DhF8ddA6q2w1Ws-ksOMI_mT9Ri2pEx-â
+		"channelID": "",
+                "whID": "",
+		"whToken": ""
 	    }
         }
     }
