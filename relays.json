@@ -1,0 +1,14 @@
+{
+    "relays": {
+        "000000100": {
+            "relayName": "demo1",
+            "private": true,
+            "passcode": "0000",
+	          "nodes": {
+                "{guildID}": "{channelID}",
+                "{guildID}": "{channelID}"
+            }
+            "active": false
+        }
+    }
+}
