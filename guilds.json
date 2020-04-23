@@ -1,0 +1,28 @@
+{
+   "guilds": {
+         "GUILD1": {
+            "guildID": "",
+	    "channel1": {
+	    	"channelID": "",
+            	"whID": "",
+                "whToken": "",
+		"active": ""
+	    },
+	    "channel2": { 
+		"channelID": "",
+                "whID": "",
+		"whToken": "",
+		"active": ""
+	    }
+        },
+        "GUILD2": {
+            "guildID": "",
+            "channel1": { 
+		"channelID": "",
+                "whID": "",
+		"whToken": "",
+		"active": ""
+	    }
+        }
+    }
+}
