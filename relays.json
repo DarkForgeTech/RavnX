@@ -1,0 +1,27 @@
+{
+    "enhancedMention": {
+       "user": true,
+        "role": true,
+        "channel": true
+   },
+   "guilds": {
+         "FORGE": {
+            "guildID": "689116255034146832",
+	    "000556": {
+	    	"channelID": "700078361539772536",
+            	"whID": "701405611375460363",
+                "whToken": "XP5p0buURkTSAJDkNWjgITHlYiCHNhb5fJ5bpVWegTFsyn0FRlreuoKCGWmmKyfYRf0b"
+	    }
+            "ignore": false,
+            "ignoreBots": true
+        },
+        "ORDER": {
+            "guildID": "689116255034146832",
+            "000556": { 
+		"channelID": "700078361539772536",
+                "whID": "701396811516215320",
+		"whToken": "zjVXiCBHAZQRJPPXSc3WCce-cA8erzbmeuUI2DhF8ddA6q2w1Ws-ksOMI_mT9Ri2pEx-â
+	    }
+        }
+    }
+}
